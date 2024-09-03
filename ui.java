@@ -20,6 +20,7 @@ class ui implements ActionListener, MouseMotionListener
     UndoManager undoManager=new UndoManager();
 
     /* TODO:
+     *    Use a .jar file to acces it as an app
      *    Add the keyboard shortcuts to the menu items
      *    Add the functionality to the menu items
      *    Add the status bar
