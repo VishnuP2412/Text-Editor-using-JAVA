@@ -18,5 +18,5 @@ This project is a simple Java Swing-based text editor with basic features like c
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/VishnuP2412/text-editor.git
-   cd text-editor
+   git clone https://github.com/VishnuP2412/Text-Editor-using-JAVA.git
+   cd Text-Editor-using-JAVA
